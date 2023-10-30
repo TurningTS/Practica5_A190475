@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/PEDRITO/Documents/Servicios%20web/Practica5_A190475/celulares.xsl"?>
+<celulares>
+  <celular>
+    <marca>Apple</marca>
+    <modelo>iPhone 13</modelo>
+    <precio>$799 (USD)</precio>
+  </celular>
+  <celular>
+    <marca>Xiamo</marca>
+    <modelo>Redmi Note 10</modelo>
+    <precio>$249 (USD)</precio>
+  </celular>
+  <celular>
+    <marca>Samsung</marca>
+    <modelo>Galaxy S21</modelo>
+    <precio>$799 (USD)</precio>
+  </celular>
+</celulares>
